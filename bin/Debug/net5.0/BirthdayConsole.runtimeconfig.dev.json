@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pehab\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pehab\\.nuget\\packages"
+    ]
+  }
+}
