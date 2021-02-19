@@ -1,0 +1,32 @@
+C:\Users\darhi\New folder\BirthdayConsole\bin\Debug\net5.0\BirthdayConsole.exe
+C:\Users\darhi\New folder\BirthdayConsole\bin\Debug\net5.0\BirthdayConsole.deps.json
+C:\Users\darhi\New folder\BirthdayConsole\bin\Debug\net5.0\BirthdayConsole.runtimeconfig.json
+C:\Users\darhi\New folder\BirthdayConsole\bin\Debug\net5.0\BirthdayConsole.runtimeconfig.dev.json
+C:\Users\darhi\New folder\BirthdayConsole\bin\Debug\net5.0\BirthdayConsole.dll
+C:\Users\darhi\New folder\BirthdayConsole\bin\Debug\net5.0\ref\BirthdayConsole.dll
+C:\Users\darhi\New folder\BirthdayConsole\bin\Debug\net5.0\BirthdayConsole.pdb
+C:\Users\darhi\New folder\BirthdayConsole\obj\Debug\net5.0\BirthdayConsole.csprojAssemblyReference.cache
+C:\Users\darhi\New folder\BirthdayConsole\obj\Debug\net5.0\BirthdayConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darhi\New folder\BirthdayConsole\obj\Debug\net5.0\BirthdayConsole.AssemblyInfoInputs.cache
+C:\Users\darhi\New folder\BirthdayConsole\obj\Debug\net5.0\BirthdayConsole.AssemblyInfo.cs
+C:\Users\darhi\New folder\BirthdayConsole\obj\Debug\net5.0\BirthdayConsole.csproj.CoreCompileInputs.cache
+C:\Users\darhi\New folder\BirthdayConsole\obj\Debug\net5.0\BirthdayConsole.dll
+C:\Users\darhi\New folder\BirthdayConsole\obj\Debug\net5.0\ref\BirthdayConsole.dll
+C:\Users\darhi\New folder\BirthdayConsole\obj\Debug\net5.0\BirthdayConsole.pdb
+C:\Users\darhi\New folder\BirthdayConsole\obj\Debug\net5.0\BirthdayConsole.genruntimeconfig.cache
+C:\Users\pehab\BirthdayGift(ToBeDeleted)\BirthdayConsole\bin\Debug\net5.0\BirthdayConsole.exe
+C:\Users\pehab\BirthdayGift(ToBeDeleted)\BirthdayConsole\bin\Debug\net5.0\BirthdayConsole.deps.json
+C:\Users\pehab\BirthdayGift(ToBeDeleted)\BirthdayConsole\bin\Debug\net5.0\BirthdayConsole.runtimeconfig.json
+C:\Users\pehab\BirthdayGift(ToBeDeleted)\BirthdayConsole\bin\Debug\net5.0\BirthdayConsole.runtimeconfig.dev.json
+C:\Users\pehab\BirthdayGift(ToBeDeleted)\BirthdayConsole\bin\Debug\net5.0\BirthdayConsole.dll
+C:\Users\pehab\BirthdayGift(ToBeDeleted)\BirthdayConsole\bin\Debug\net5.0\ref\BirthdayConsole.dll
+C:\Users\pehab\BirthdayGift(ToBeDeleted)\BirthdayConsole\bin\Debug\net5.0\BirthdayConsole.pdb
+C:\Users\pehab\BirthdayGift(ToBeDeleted)\BirthdayConsole\obj\Debug\net5.0\BirthdayConsole.csprojAssemblyReference.cache
+C:\Users\pehab\BirthdayGift(ToBeDeleted)\BirthdayConsole\obj\Debug\net5.0\BirthdayConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pehab\BirthdayGift(ToBeDeleted)\BirthdayConsole\obj\Debug\net5.0\BirthdayConsole.AssemblyInfoInputs.cache
+C:\Users\pehab\BirthdayGift(ToBeDeleted)\BirthdayConsole\obj\Debug\net5.0\BirthdayConsole.AssemblyInfo.cs
+C:\Users\pehab\BirthdayGift(ToBeDeleted)\BirthdayConsole\obj\Debug\net5.0\BirthdayConsole.csproj.CoreCompileInputs.cache
+C:\Users\pehab\BirthdayGift(ToBeDeleted)\BirthdayConsole\obj\Debug\net5.0\BirthdayConsole.dll
+C:\Users\pehab\BirthdayGift(ToBeDeleted)\BirthdayConsole\obj\Debug\net5.0\ref\BirthdayConsole.dll
+C:\Users\pehab\BirthdayGift(ToBeDeleted)\BirthdayConsole\obj\Debug\net5.0\BirthdayConsole.pdb
+C:\Users\pehab\BirthdayGift(ToBeDeleted)\BirthdayConsole\obj\Debug\net5.0\BirthdayConsole.genruntimeconfig.cache
